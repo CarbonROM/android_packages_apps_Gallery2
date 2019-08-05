@@ -421,6 +421,7 @@
     <!-- Toast if the trimmed video is too short to trim. [CHAR LIMIT=80] -->
     <string name="trim_too_short">Kan niet bijsnijden: doelvideo is te kort</string>
     <!-- Toast if the muted video is not supported. [CHAR LIMIT=80] -->
+    <string name="mute_nosupport">Kan niet dempen: video niet ondersteund</string>
     <!-- Text to show with progress bar while stitching in Gallery -->
     <string name="pano_progress_text">Panorama wordt gegenereerd</string>
     <!-- The label on the button that will save an edited image -->
@@ -435,6 +436,10 @@
         <item quantity="other">%1$d items gescand</item>
     </plurals>
     <!-- String indicating how many media items from the camera have been selected -->
+    <plurals name="ingest_number_of_items_selected">
+        <item quantity="one">%1$d item geselecteerd</item>
+        <item quantity="other">%1$d items geselecteerd</item>
+    </plurals>
     <!--  Status message shown when content from the camera is being sorted -->
     <string name="ingest_sorting" msgid="624687230903648118">Sorteren...</string>
     <!--  Status message shown when scanning the content from the camera has completed -->
@@ -881,9 +886,13 @@ CHAR LIMIT = NONE] -->
         <item quantity="other">%1$d foto\'s</item>
     </plurals>
     <!-- The label for the bass boost knob of the audio effects dialog. -->
+    <string name="bass_boost_strength">Basversterker</string>
     <!-- The label for the 3d effect knob of the audio effects dialog. -->
     <!-- The label for the audio effects menu. -->
+    <string name="audio_effects">Geluidseffecten</string>
     <!-- Toast if user attempts to control audio effects without headphones plugged in. -->
     <!-- The title of the audio effects dialog. -->
+    <string name="audio_effects_dialog_title">Snapdragon Audio+</string>
     <!-- The tips of trimming video -->
+    <string name="fail_trim">Sorry, dit videobestand kan niet worden bijgesneden</string>
 </resources>

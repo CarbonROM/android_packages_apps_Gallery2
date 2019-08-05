@@ -60,13 +60,13 @@
     <string name="ok">OK</string>
     <!-- Button indicating that the cropped image should be reverted back to the original -->
     <!-- Hint that appears when cropping an image with more than one face -->
-    <string name="multiface_crop_help">始めるには顔をタップします。</string>
+    <string name="multiface_crop_help">始めるには顔をタップします</string>
     <!-- Toast/alert that the image is being saved to the SD card -->
     <string name="saving_image">写真を保存中…</string>
     <!-- Toast/alert that the image is being saved after editing in filtershow [CHAR LIMIT=40]-->
     <string name="filtershow_saving_image">画像を<xliff:g id="ALBUM_NAME">%1$s</xliff:g>に保存中…</string>
     <!-- Eorror toast message that the image cannot be saved [CHAR LIMIT=40]-->
-    <string name="save_error">トリミングした画像を保存できません。</string>
+    <string name="save_error">トリミングした画像を保存できません</string>
     <!-- menu pick: crop the currently selected image [CHAR LIMIT=30]-->
     <string name="crop_label">トリミング</string>
     <!-- menu pick: trim the currently selected video [CHAR LIMIT=30]-->
@@ -134,7 +134,7 @@
     <string name="rotate_left">左に回転</string>
     <string name="rotate_right">右に回転</string>
     <!-- Toast message prompted when the specified item is not found [CHAR LIMIT=40]-->
-    <string name="no_such_item">アイテムが見つかりませんでした。</string>
+    <string name="no_such_item">アイテムが見つかりませんでした</string>
     <!-- String used as a menu label. The user can choose to edit the image
          [CHAR_LIMIT=20]-->
     <string name="edit">編集</string>
@@ -160,9 +160,9 @@
     <!-- The title of the menu item to let user set the image as background etc. [CHAR LIMIT=15] -->
     <string name="set_as">登録</string>
     <!-- String indicating an error when muting the video. [CHAR LIMIT=30] -->
-    <string name="video_mute_err">動画をミュートできません。</string>
+    <string name="video_mute_err">動画をミュートできません</string>
     <!-- String indicating an error when playing the video. [CHAR LIMIT=30] -->
-    <string name="video_err">動画を再生できません。</string>
+    <string name="video_err">動画を再生できません</string>
     <!-- Strings for grouping operations in the menu. The photos can be grouped
          by their location, taken time, or tags. -->
     <!-- The title of the menu item to let user choose the grouping rule, when
@@ -187,9 +187,9 @@
          have location information in them [CHAR LIMIT=20]-->
     <string name="no_location">位置情報なし</string>
     <!-- This toast message is shown when network connection is lost while doing clustering -->
-    <string name="no_connectivity">ネットワークの問題により一部の位置情報を特定できませんでした。</string>
+    <string name="no_connectivity">ネットワークの問題により一部の位置情報を特定できませんでした</string>
     <!-- This toast message is shown when failed to load the album data. [CHAR LIMIT=NONE] -->
-    <string name="sync_album_error">このアルバムの画像をダウンロードできませんでした。しばらくしてからもう一度お試しください。</string>
+    <string name="sync_album_error">このアルバムの画像をダウンロードできませんでした。しばらくしてからもう一度お試し下さい。</string>
     <!-- The title of the menu item to let user choose the which portion of
          the media items the user wants to see. When pressed, a submenu will
          appear and user can choose one of "show images only",
@@ -203,12 +203,12 @@
     <!-- Title of the StackView AppWidget -->
     <string name="appwidget_title">フォトギャラリー</string>
     <!-- Text for the empty state of the StackView AppWidget [CHAR LIMIT=30] -->
-    <string name="appwidget_empty_text">画像がありません。</string>
+    <string name="appwidget_empty_text">画像がありません</string>
     <!-- Toast message shown when the cropped image has been saved in the
          %s folder (string: folder_download) [CHAR LIMIT=50]-->
-    <string name="crop_saved">トリミングした画像を<xliff:g id="FOLDER_NAME">%s</xliff:g>に保存しました。</string>
+    <string name="crop_saved">トリミングした画像を<xliff:g id="FOLDER_NAME">%s</xliff:g>に保存しました</string>
     <!-- Toast message shown when there is no albums available [CHAR LIMIT=50]-->
-    <string name="no_albums_alert">使用できるアルバムはありません。</string>
+    <string name="no_albums_alert">使用できるアルバムはありません</string>
     <!-- Toast message shown when we close the AlbumPage because it is empty
             [CHAR LIMIT=50] -->
     <string name="empty_album">使用できる画像/動画: 0件</string>
@@ -246,7 +246,7 @@
     <!-- Text indicating the duration of a video item in details window [CHAR LIMIT=14] -->
     <string name="duration">長さ</string>
     <!-- Text indicating the mime type of a media item in details window [CHAR LIMIT=14] -->
-    <string name="mimetype">MIMEタイプ</string>
+    <string name="mimetype">MIME タイプ</string>
     <!-- Text indicating the file size of a media item in details window [CHAR LIMIT=14] -->
     <string name="file_size">ファイルサイズ</string>
     <!-- Text indicating the maker of a media item in details window [CHAR LIMIT=14] -->
@@ -273,9 +273,9 @@
     <!-- String indicating how camera shooting feature is used. [CHAR LIMIT=8] -->
     <string name="auto">オート</string>
     <!-- String indicating camera flash is fired. [CHAR LIMIT=14] -->
-    <string name="flash_on">フラッシュON</string>
+    <string name="flash_on">フラッシュ ON</string>
     <!-- String indicating camera flash is not used. [CHAR LIMIT=14] -->
-    <string name="flash_off">フラッシュOFF</string>
+    <string name="flash_off">フラッシュ OFF</string>
     <!-- String indicating image width or height is unknown. [CHAR LIMIT=14] -->
     <string name="unknown">不明</string>
     <!-- String for the empty not filtered image [CHAR LIMIT=10] -->
@@ -287,7 +287,7 @@
     <!-- String for filter that washes out colors (filtershow_fx_0002_bleach) [CHAR LIMIT=10] -->
     <string name="ffx_bleach">ブリーチ</string>
     <!-- String for filter that makes colors a bluish (filtershow_fx_0003_blue_crush) [CHAR LIMIT=10] -->
-    <string name="ffx_blue_crush">青</string>
+    <string name="ffx_blue_crush">ブルー</string>
     <!-- String for filter that makes image black & white (filtershow_fx_0004_bw_contrast) [CHAR LIMIT=10] -->
     <string name="ffx_bw_contrast">モノクロ</string>
     <!-- String for filter that makes colors a yellowish (filtershow_fx_0005_punch) [CHAR LIMIT=10] -->
@@ -316,10 +316,10 @@
     <!-- A label shown on the action bar. It indicates that the user is
          viewing MTP devices connected (like other digital cameras).
          [CHAR LIMIT=20] -->
-    <string name="set_label_mtp_devices">MTPデバイス</string>
+    <string name="set_label_mtp_devices">MTP デバイス</string>
     <!-- A label shown on the action bar. It indicates that the user is
          viewing Picasa albums [CHAR LIMIT=20] -->
-    <string name="set_label_picasa_albums">Picasaのアルバム</string>
+    <string name="set_label_picasa_albums">Picasa のアルバム</string>
     <!-- Label indicating the amount on free space on the device. The parameter
          is a string representation of the amount of free space, eg. "20MB".
          [CHAR LIMIT=20]
@@ -351,9 +351,9 @@
     <string name="import_complete">インポート完了</string>
     <string name="import_fail">インポートできません</string>
     <!-- A toast indicating a camera is connected to the device [CHAR LIMIT=30]-->
-    <string name="camera_connected">カメラが接続されました。</string>
+    <string name="camera_connected">カメラが接続されました</string>
     <!-- A toast indicating a camera is disconnected [CHAR LIMIT=30] -->
-    <string name="camera_disconnected">カメラの接続が解除されました。</string>
+    <string name="camera_disconnected">カメラの接続が解除されました</string>
     <!-- A label shown on MTP albums thumbnail to instruct users to import
         [CHAR LIMIT=40] -->
     <string name="click_import">インポートするにはここをタップします</string>
@@ -411,7 +411,7 @@
     <!-- The tilte of a dialog showing muting in progress. [CHAR LIMIT=20] -->
     <string name="muting">ミュートしています</string>
     <!-- The content of a dialog showing trimming in progress. [CHAR LIMIT=30] -->
-    <string name="please_wait">お待ちください</string>
+    <string name="please_wait">お待ち下さい</string>
     <!-- Toast after the trimming / muting is done. [CHAR LIMIT=50] -->
     <string name="save_into">動画を<xliff:g id="ALBUM_NAME">%1$s</xliff:g>に保存しています…</string>
     <!-- Toast if the trimmed video is too short to trim. [CHAR LIMIT=80] -->
@@ -443,9 +443,9 @@
     <!--  Status message shown when content from an external camera is being imported -->
     <string name="ingest_importing">インポートしています...</string>
     <!--  Status message shown when there is no content available to be imported -->
-    <string name="ingest_empty_device">この端末にインポートできるコンテンツがありません。</string>
+    <string name="ingest_empty_device">この端末にインポートできるコンテンツがありません</string>
     <!--  Status message shown when there is no MTP device connected  -->
-    <string name="ingest_no_device">接続されているMTPデバイスがありません</string>
+    <string name="ingest_no_device">接続されている MTP デバイスがありません</string>
     <!-- Label for album grid button -->
     <string name="ingest_switch_photo_grid">@string/switch_photo_grid</string>
     <!-- Label for fullscreen button. [CHAR LIMIT=20] -->
@@ -455,25 +455,25 @@
     <!-- title for the dialog showing the error of camera hardware -->
     <string name="camera_error_title">カメラエラー</string>
     <!-- message for the dialog showing the error of camera hardware -->
-    <string name="cannot_connect_camera">カメラに接続できません。</string>
+    <string name="cannot_connect_camera">カメラに接続できません</string>
     <!-- message for the dialog showing the camera is disabled because of security policies. Camera cannot be used. -->
-    <string name="camera_disabled">カメラはセキュリティポリシーにより無効になっています。</string>
+    <string name="camera_disabled">カメラはセキュリティポリシーにより無効になっています</string>
     <!-- label for the icon meaning 'show me all the images that were taken with the camera' -->
     <string name="camera_label">カメラ</string>
     <!-- alert to the user to wait for some operation to complete -->
-    <string name="wait">お待ちください...</string>
+    <string name="wait">お待ち下さい...</string>
     <!-- alert to the user that USB storage must be available before using the camera [CHAR LIMIT=NONE] -->
-    <string name="no_storage" product="nosdcard">カメラを使用する前にUSBストレージをマウントしてください。</string>
+    <string name="no_storage" product="nosdcard">カメラを使用する前に USB ストレージをマウントして下さい</string>
     <!-- alert to the user that an SD card must be installed before using the camera -->
-    <string name="no_storage" product="default">カメラを使用する前にSDカードを挿入してください。</string>
+    <string name="no_storage" product="default">カメラを使用する前に SD カードを挿入して下さい</string>
     <!-- alert to the user that the USB storage is being disk-checked [CHAR LIMIT=30] -->
-    <string name="preparing_sd" product="nosdcard">USBストレージの準備中...</string>
+    <string name="preparing_sd" product="nosdcard">USB ストレージの準備中...</string>
     <!-- alert to the user that the SD card is being disk-checked -->
-    <string name="preparing_sd" product="default">SDカードの準備中...</string>
+    <string name="preparing_sd" product="default">SD カードの準備中...</string>
     <!-- alert to the user that the camera fails to read or write the USB storage. [CHAR LIMIT=NONE] -->
-    <string name="access_sd_fail" product="nosdcard">USBストレージにアクセスできませんでした。</string>
+    <string name="access_sd_fail" product="nosdcard">USB ストレージにアクセスできませんでした</string>
     <!-- alert to the user that the camera fails to read or write the SD card. -->
-    <string name="access_sd_fail" product="default">SDカードにアクセスできませんでした。</string>
+    <string name="access_sd_fail" product="default">SD カードにアクセスできませんでした</string>
     <!-- button in review mode indicating that the photo taking, video recording, and panorama saving session should be canceled [CHAR LIMIT=10] -->
     <string name="review_cancel">キャンセル</string>
     <!-- button in review mode indicating that the taken photo/video is OK to be attached/uploaded [CHAR LIMIT=10] -->
@@ -568,8 +568,8 @@
     <string name="pref_camera_flashmode_entry_off">OFF</string>
     <!-- Menu, flash mode labels [CHAR LIMIT=50] -->
     <string name="pref_camera_flashmode_label_auto">フラッシュオート</string>
-    <string name="pref_camera_flashmode_label_on">フラッシュON</string>
-    <string name="pref_camera_flashmode_label_off">フラッシュOFF</string>
+    <string name="pref_camera_flashmode_label_on">フラッシュ ON</string>
+    <string name="pref_camera_flashmode_label_off">フラッシュ OFF</string>
     <!-- Default videocamera flash mode setting.-->
     <!-- Default white balance setting. -->
     <!-- Settings screen, white balance title -->
@@ -616,7 +616,7 @@
     <!-- Settings menu countdown timer labels [CHAR LIMIT=50] -->
     <string name="pref_camera_countdown_label">カウントダウンタイマー</string>
     <!-- Settings menu countdown timer off [CHAR LIMIT=50] -->
-    <string name="pref_camera_countdown_label_off">タイマーOFF</string>
+    <string name="pref_camera_countdown_label_off">タイマー OFF</string>
     <!-- Settings menu countdown timer 1 second [CHAR LIMIT=50] -->
     <string name="pref_camera_countdown_label_one">1秒</string>
     <!-- Settings menu countdown timer 3 seconds [CHAR LIMIT=50] -->
@@ -626,7 +626,7 @@
     <!-- Settings menu countdown timer 15 seconds [CHAR LIMIT=50] -->
     <string name="pref_camera_countdown_label_fifteen">15秒</string>
     <!-- Toast after trying to select a setting that is not allowed to change in scene mode [CHAR LIMIT=NONE] -->
-    <string name="not_selectable_in_scene_mode">撮影モードでは選択できません。</string>
+    <string name="not_selectable_in_scene_mode">撮影モードでは選択できません</string>
     <!-- Exposure settings in preference -->
     <string name="pref_exposure_title">露出</string>
     <!--  menu label exposure compensation [CHAR LIMIT=50] -->
@@ -642,20 +642,20 @@
     <!-- Dialog "OK" button. Dismisses dialog. -->
     <string name="dialog_ok">OK</string>
     <!-- Low-memory dialog message [CHAR LIMT=NONE] -->
-    <string name="spaceIsLow_content" product="nosdcard">USBストレージの空き領域が少なくなっています。画質設定を変更するか、画像など一部のファイルを削除してください。</string>
+    <string name="spaceIsLow_content" product="nosdcard">USB ストレージの空き領域が少なくなっています。画質設定を変更するか、画像など一部のファイルを削除して下さい。</string>
     <!-- Low-memory dialog message [CHAR LIMIT=NONE] -->
-    <string name="spaceIsLow_content" product="default">SDカードの空き領域が少なくなっています。画質設定を変更するか、画像などのファイルを一部削除してください。</string>
+    <string name="spaceIsLow_content" product="default">SD カードの空き領域が少なくなっています。画質設定を変更するか、画像などのファイルを一部削除して下さい。</string>
     <!-- Camera format string for new image files. Passed to java.text.SimpleDateFormat. -->
     <!-- Video Camera format string for new video files. Passed to java.text.SimpleDateFormat. -->
     <!-- Filename prefix for panorama output. -->
     <!-- The message shown when video record reaches size limit. -->
-    <string name="video_reach_size_limit">サイズ制限に達しました。</string>
+    <string name="video_reach_size_limit">サイズ制限に達しました</string>
     <!-- The text shown when the panorama panning speed is to fast [CHAR LIMIT=12] -->
     <string name="pano_too_fast_prompt">速すぎます</string>
     <!-- The text shown in the progress dialog when panorama preview is generating in the background [CHAR LIMIT=30] -->
     <string name="pano_dialog_prepare_preview">パノラマを準備しています</string>
     <!-- The text shown in the dialog when panorama saving failed [CHAR LIMIT=40] -->
-    <string name="pano_dialog_panorama_failed">パノラマを保存できませんでした。</string>
+    <string name="pano_dialog_panorama_failed">パノラマを保存できませんでした</string>
     <!-- The text shown on the dialog title in the dialogs for Panorama [CHAR LIMIT=12] -->
     <string name="pano_dialog_title">パノラマ</string>
     <!-- The text shown on the top-left corner of the screen to indicate the capturing is on going [CHAR LIMIT=27] -->
@@ -667,7 +667,7 @@
     <!-- The text shown on the screen to indicate that the panorama is rendering [CHAR LIMIT=27] -->
     <string name="pano_review_rendering">パノラマをレンダリング中</string>
     <!-- Toast telling users tapping on the viewfinder will trigger autofocus [CHAR LIMIT=28] -->
-    <string name="tap_to_focus">タップしてフォーカスします。</string>
+    <string name="tap_to_focus">タップしてフォーカスします</string>
     <!-- Default effect setting that clears the effect. -->
     <!-- Title of video effect setting popup window -->
     <string name="pref_video_effect_title">効果</string>
@@ -694,13 +694,13 @@
     <!-- Message displayed in overlay during background replacement training [CHAR LIMIT=180]-->
     <string name="bg_replacement_message">端末をセッティングします。\n少しの間フレームの外に出ます。</string>
     <!-- Toast telling users tapping on the viewfinder will take a picture [CHAR LIMIT=54] -->
-    <string name="video_snapshot_hint">録画中にタップして静止画を撮影できます。</string>
+    <string name="video_snapshot_hint">録画中にタップして静止画を撮影できます</string>
     <!-- Announcement telling users video recording has just started [CHAR LIMIT=NONE] -->
-    <string name="video_recording_started">録画を開始しました。</string>
+    <string name="video_recording_started">録画を開始しました</string>
     <!-- Announcement telling users video recording has just stopped [CHAR LIMIT=NONE] -->
-    <string name="video_recording_stopped">録画を停止しました。</string>
+    <string name="video_recording_stopped">録画を停止しました</string>
     <!-- Toast telling users video snapshot is disabled when the effects are on and a user tries to tap on the viewfinder [CHAR LIMIT=65] -->
-    <string name="disable_video_snapshot_hint">動画スナップショットは特殊効果がONの時は無効です。</string>
+    <string name="disable_video_snapshot_hint">動画スナップショットは特殊効果が ON の時は無効です</string>
     <!-- A button in effect setting popup to clear the effect. [CHAR LIMIT=26] -->
     <string name="clear_effects">効果設定をクリア</string>
     <!-- Title of category for silly face effects. [CHAR LIMIT=26] -->
@@ -850,9 +850,9 @@ CHAR LIMIT = NONE] -->
     <!-- Title in time interval picker for setting time interval. [CHAR LIMIT = 30]-->
     <string name="set_time_interval">間隔を設定</string>
     <!-- Help text that is shown when the time lapse feature is turned off. [CHAR LIMIT = 180]-->
-    <string name="set_time_interval_help">低速度撮影機能がOFFになっています。間隔を設定するにはONにしてください。</string>
+    <string name="set_time_interval_help">低速度撮影機能が OFF になっています。間隔を設定するには ON にして下さい。</string>
     <!-- Help text that is shown when the countdown timer is turned off. [CHAR LIMIT = 180]-->
-    <string name="set_timer_help">カウントダウンタイマーが OFF です。画像を撮影するまでカウントダウンするには、このタイマーを ON にしてください。</string>
+    <string name="set_timer_help">カウントダウンタイマーが OFF です。画像を撮影するまでカウントダウンするには、このタイマーを ON にして下さい。</string>
     <!-- Title in timer setting for setting the duration for the countdown timer. [CHAR LIMIT = 50]-->
     <string name="set_duration">設定時間 (秒数)</string>
     <!-- On-screen hint during timer countdown for taking a photo. [CHAR LIMIT = 60]-->
@@ -891,7 +891,7 @@ CHAR LIMIT = NONE] -->
     <!-- The label for the audio effects menu. -->
     <string name="audio_effects">オーディオエフェクト</string>
     <!-- Toast if user attempts to control audio effects without headphones plugged in. -->
-    <string name="headset_plug">これらの効果はヘッドホンで聴いてください</string>
+    <string name="headset_plug">これらの効果はヘッドホンで聴いて下さい</string>
     <!-- The title of the audio effects dialog. -->
     <string name="audio_effects_dialog_title">Snapdragon Audio+</string>
     <!-- The tips of trimming video -->
