@@ -29,17 +29,5 @@ IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- Strings for step option settins -->
-    <string name="setp_option_name">कदम</string>
-    <string name="setp_option_three_second">३ सेकंड</string>
-    <string name="setp_option_six_second">६ सेकंड</string>
-    <string name="loop">"फंदा"</string>
-    <string name="single">"अकेला"</string>
-    <string name="stereo">"स्टीरियो"</string>
-    <string name="speaker_on">स्पीकर चालू</string>
-    <string name="speaker_off">स्पीकर बंद</string>
-    <string name="speaker_need_headset">कृपया हेडसेट का प्रयोग करें</string>
-    <string name="single_track">"एकल ट्रैक"</string>
-    <string name="media_detail">"साधन का विवरण"</string>
-    <string name="next">"अगला"</string>
-    <string name="previous">"पिछला"</string>
+    <string name="setp_option_name">خطوة</string>
 </resources>
